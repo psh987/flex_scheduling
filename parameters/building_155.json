@@ -1,0 +1,1 @@
+{"name": "test_155", "base_model": "SimpleHouseRad-v0", "weather_name": "CH_VD_Lausanne", "envelope_parameters": {"thermal_capacity": 5.921562525216614, "thermal_conductance": 0.3329677236934497, "heatpump_maximum_power": 3.3296772369344967, "heatpump_nominal_COP": 4.98186588515347, "solar_gain": 2.5, "maximum_temperature": 24.0, "minimum_temperature": 19.0}}
